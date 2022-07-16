@@ -1,3 +1,3 @@
-print("hemanth")
-print("neeraj")
-print("venkat")
+Neeraj
+Venkat
+Hemanth
